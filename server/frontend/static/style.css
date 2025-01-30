@@ -13,6 +13,10 @@ img{
   margin-bottom: 1%;
 }
 
+.customer_text{
+color:blue;
+}
+
 .row{
   display: flex;  
   flex: 1;
